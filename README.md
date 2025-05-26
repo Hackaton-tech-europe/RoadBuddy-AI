@@ -11,10 +11,10 @@ A Telegram chatbot that teaches driving theory with real street photos from your
 ## 🙌 Made by: 
 
 [//]: contributor-faces
-<a href="https://github.com/redarling"><img src="https://avatars.githubusercontent.com/u/79450349?v=4" title="Romain" width="50" height="50"></a>
-<a href="https://github.com/Jan-Matter"><img src="https://avatars.githubusercontent.com/u/93545347?v=4" title="Lilien" width="50" height="50"></a>
+<a href="https://github.com/redarling"><img src="https://avatars.githubusercontent.com/u/79450349?v=4" title="Andrii" width="50" height="50"></a>
+<a href="https://github.com/Jan-Matter"><img src="https://avatars.githubusercontent.com/u/93545347?v=4" title="Jan" width="50" height="50"></a>
 <a href="https://github.com/yvann-ba"><img src="https://avatars.githubusercontent.com/u/97234242?v=4" title="Yvann" width="50" height="50"></a>
-<a href="https://github.com/ismaelmehdid"><img src="https://avatars.githubusercontent.com/u/149189461?v=4" title="Thomas" width="50" height="50"></a>
+<a href="https://github.com/ismaelmehdid"><img src="https://avatars.githubusercontent.com/u/149189461?v=4" title="Ismael" width="50" height="50"></a>
 
 [//]: contributor-faces
 ## Tech Stack
