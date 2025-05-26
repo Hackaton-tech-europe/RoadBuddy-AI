@@ -1,5 +1,4 @@
 # RoadBuddy AI
-
 A Telegram chatbot that teaches driving theory with real street photos from your own city, one quick quiz at a time.
 
 ## Features
@@ -9,6 +8,15 @@ A Telegram chatbot that teaches driving theory with real street photos from your
 - **Infinite learning**: You can process an infinite number of completely unique questions.
 - **Zero setup**: Everything runs directly in Telegram—no additional apps required.
 
+## 🙌 Made by: 
+
+[//]: contributor-faces
+<a href="https://github.com/redarling"><img src="https://avatars.githubusercontent.com/u/79450349?v=4" title="Romain" width="50" height="50"></a>
+<a href="https://github.com/Jan-Matter"><img src="https://avatars.githubusercontent.com/u/93545347?v=4" title="Lilien" width="50" height="50"></a>
+<a href="https://github.com/yvann-ba"><img src="https://avatars.githubusercontent.com/u/97234242?v=4" title="Yvann" width="50" height="50"></a>
+<a href="https://github.com/ismaelmehdid"><img src="https://avatars.githubusercontent.com/u/149189461?v=4" title="Thomas" width="50" height="50"></a>
+
+[//]: contributor-faces
 ## Tech Stack
 
 - **Bot**: Telegram Bot API with Telegraf SDK
