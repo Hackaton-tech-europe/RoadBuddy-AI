@@ -28,17 +28,6 @@ A Telegram chatbot that teaches driving theory with real street photos from your
 ## Architecture explanation
 ![image](https://github.com/user-attachments/assets/0135a9df-ed87-46c6-b666-4fa49fc743f7)
 
-
-## Try it now!
-> ⚠️ **Warning:** This Telegram bot is an MVP and may make mistakes in its answers. It uses very simple and cheap Mistral 12B model FOR NOW.
-
-<div style="text-align: center;">
-  <img width="400" src="https://github.com/user-attachments/assets/fa16db81-f685-4cfb-b06b-1008de17fb9e" />
-</div>
-
-[OR USE THIS URL](https://t.me/road_buddy_ai_bot)
-
-
 ## Dependencies
 
    - Docker
@@ -69,10 +58,7 @@ In another terminal please run:
    Copy the URL highlighted in the image above to set up your environment variables later.
 
 4. **To create your own bot, simply follow these steps**
-   1. Message [@BotFather](https://t.me/BotFather) on Telegram with the command **/newbot**.
-   2. Follow the prompts to provide the necessary information.
-   3. Once done, you’ll receive a token like this: `7899634355:AAH21k1iAJuw4UyCLBXQo80zkvuqJ0f89WQ` (note: this is just an example and not real data).
-
+   
    For any questions or assistance, feel free to reach out to me:
       - **LinkedIn**: [Andrii Syvash](https://www.linkedin.com/in/asyvash/)
       - **Email**: [asyvash.work.it@gmail.com](mailto:asyvash.work.it@gmail.com)
